@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title -->
+    <title>Cashzway</title>
+<link rel="icon" type="image/png" href="Cashzway_files/preesoft-logo.png">
+    <!-- Favicon -->
+  
+	   <link rel="stylesheet" href="Cashzway_files/material-design-iconic-font.css">
+       <link rel="stylesheet" href="Cashzway_files/nouislider_002.htm">
+       <link rel="stylesheet" href="Cashzway_files/bootstrap.css" type="text/css">
+       <link rel="stylesheet" href="Cashzway_files/sd_calculator.css" type="text/css">
+    <script src="Cashzway_files/jquery_002.htm"></script>
+    <script src="Cashzway_files/nouislider.htm"></script>
+    <script src="Cashzway_files/wNumb.htm"></script>
+    <script src="Cashzway_files/jquery.htm"></script>
+    <script src="Cashzway_files/additional-methods.htm"></script>
+    <script src="Cashzway_files/main.htm"></script>
+<script language="javascript" type="text/javascript">
+  function myFunction() {
+    var loan = $('#amount').val(),
+        month = $('#months').val(),
+        int = $('#interest').val(),
+        years = $('#years').val(),
+        down = $('#down').val(),
+        amount = parseInt(loan),
+        months = parseInt(month),
+        down = parseInt(down),
+        annInterest = parseFloat(int),
+        monInt = annInterest / 1200,
+        calculation = ((monInt + (monInt / (Math.pow((1 + monInt), months) -1))) * (amount - (down || 0))).toFixed(2);
+  
+    document.getElementById("output").innerHTML = calculation;
+}
+
+
+$(function(){
+  var month = $(this).val(),
+      doneTypingInterval = 500,
+      months = parseInt(month),
+      typingTimer;
+
+  $('#months').keyup(function(){
+      month = $(this).val();
+      months = parseInt(month);
+  
+      clearTimeout(typingTimer);
+      if (month) {
+          typingTimer = setTimeout(doneTyping, doneTypingInterval);
+      }
+  });
+
+  function doneTyping () {
+    $('#years').val(months/12);  
+  }
+})
+
+$(function(){
+  var month = $(this).val(),
+      doneTypingInterval = 500,
+      months = parseInt(month),
+      typingTimer;
+
+  $('#months').keyup(function(){
+      month = $(this).val();
+      months = parseInt(month);
+  
+      clearTimeout(typingTimer);
+      if (month) {
+          typingTimer = setTimeout(doneTyping, doneTypingInterval);
+      }
+  });
+
+  function doneTyping () {
+    $('#years').val(months/12);  
+  }
+})
+
+$(function(){
+  var year = $(this).val(),
+      doneTypingInterval = 500,
+      years = parseInt(year),
+      typingTimer;
+
+  $('#years').keyup(function(){
+      year = $(this).val();
+      myears = parseInt(year);
+  
+      clearTimeout(typingTimer);
+      if (year) {
+          typingTimer = setTimeout(doneTyping, doneTypingInterval);
+      }
+  });
+
+  function doneTyping () {
+    $('#months').val(year * 12);  
+  }
+})
+
+
+
+         </script>
+
+    <!-- Core Stylesheet -->
+    <link rel="stylesheet" href="Cashzway_files/style.css">
+            <style>
+            
+            .open
+            {
+                
+                
+                color : : #fff !important ;
+                
+            }
+            
+            .fa{
+                margin-right: 5%;
+            }
+            .icon{
+                    height: 100px;
+
+                    padding-bottom: 20px;
+                }
+                
+                
+.subscribe-area 
+  {
+      
+      
+      background-color : #ffc107 !important;
+      
+      
+  }
+        </style>
+
+</head>
+
+<body>
+    <!-- ##### Preloader ##### -->
+    
+
+    <!-- ##### Header Area Start ##### -->
+    <header class="header-area">
+
+        <!-- ***** Top Header Area ***** -->
+        <div class="top-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="top-header-content d-flex flex-wrap align-items-center justify-content-between">
+                            <!-- Top Header Meta -->
+                            <div class="top-header-meta d-flex flex-wrap">
+                                <a href="#" class="open" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="9 Am to 9 PM"><i class="fa fa-clock-o" aria-hidden="true"></i> <span>Opening Hours - 09 Am to 09 PM</span></a>
+                                <!-- Social Info -->
+                                <div class="top-social-info">
+                                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                    <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                            <!-- Top Header Meta -->
+                            <div class="top-header-meta">
+                                <a href="mailto:info.deercreative@gmail.com" class="email-address"><i class="fa fa-envelope" aria-hidden="true"></i> <span>info@cashzway.ca</span></a>
+                                <a href="#" class="phone"><i class="fa fa-phone" aria-hidden="true"></i> <span>416 243 2100</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ***** Top Header Area ***** -->
+
+        <!-- ***** Navbar Area ***** -->
+        <div id="sticky-wrapper" class="sticky-wrapper is-sticky" style="height: 90px;"><div class="crose-main-menu" style="width: 1343px; position: fixed; top: 0px; z-index: inherit;">
+            <div class="classy-nav-container breakpoint-off light left">
+                <div class="container">
+                    <!-- Menu -->
+                    <nav class="classy-navbar justify-content-between" id="croseNav">
+
+                        <!-- Nav brand -->
+                        <a href="http://localhost/Cashzway/index.php" class="nav-brand"><img src="Cashzway_files/preesoft-logo.png" alt=""></a>
+
+                        <!-- Navbar Toggler -->
+                        <div class="classy-navbar-toggler">
+                            <span class="navbarToggler"><span></span><span></span><span></span></span>
+                        </div>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+
+                            <!-- close btn -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul>
+                                    
+                                      
+                  
+                  
+                  <li class="megamenu-item"><a href="#">Loans / Advance </a>
+                                        <div class="megamenu">
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="http://localhost/Cashzway/installment-loans.php">Installment Loans</a></li>
+                                                 <li><a href="http://localhost/Cashzway/application-form.php">Apply Now</a></li>
+                         <li><a href="http://localhost/Cashzway/installment-loans-faq.php">FAQs</a></li>
+                                                <li><a href="http://localhost/Cashzway/eligibility-calculator.php">Eligibility Calculator</a></li>
+                                                
+                                            </ul>
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="http://localhost/Cashzway/Cash-advance.php">Cash Advance</a></li>
+                         <li><a href="http://localhost/Cashzway/cash-advance-faq.php">How it works</a></li>
+                                                 <li><a href="http://localhost/Cashzway/application-form.php">Apply Now</a></li>
+                         <li><a href="http://localhost/Cashzway/cash-advance-faq.php">FAQs</a></li>
+                        <li><a href="http://localhost/Cashzway/cash-advance-pricing.php">Pricing</a></li>
+                                                <li><a href="http://localhost/Cashzway/cash-advance-dept-repayment.php">Debt Repayment</a></li>
+                                                <li><a href="http://localhost/Cashzway/loan-comparison.php">Compare Loans</a></li>
+                                                <li><a href="#">Payment Calculator</a></li>
+                                            </ul>
+                                                 <ul class="single-mega cn-col-4">
+                                                 <li><a href="http://localhost/Cashzway/loan-comparison.php">Mortagage Finance</a></li>
+                                                <!--<li><a href="#">Payment Calculator</a></li>-->
+                        
+                                            </ul>
+                                         
+                                        </div>
+                                    <span class="dd-trigger"></span></li>
+                  
+                  
+                     <li class="cn-dropdown-item has-down"><a href="#"> Consumer Services </a>
+                                        <ul class="dropdown">
+                                            <li><a href="http://localhost/Cashzway/titanium.php">Titanium + Prepaid</a></li>
+                                            <li><a href="http://localhost/Cashzway/cheque-cashing.php">Cheque Cashing</a></li>
+                                            <li><a href="http://localhost/Cashzway/currency-exchange.php">Currency Exchange</a></li>
+                      <li><a href="http://localhost/Cashzway/bill-payments.php">Bill Payment</a></li>
+                                            <li><a href="http://localhost/Cashzway/bill-payments.php">Rapid X </a></li>
+                                             <li><a href="http://localhost/Cashzway/western-union.php">Western Union </a></li>
+
+                                        </ul>
+                                    <span class="dd-trigger"></span></li>
+                     <li class="cn-dropdown-item has-down"><a href="#"> Other Services</a>
+                                        <ul class="dropdown wdth_css">
+                                            <li><a href="#">Tax Filling</a></li>
+                                            <li><a href="#">Courier Services</a></li>
+                                            <li><a href="#">Calling Card</a></li>
+                                            <li><a href="#">Accounting &amp; Book Keeping</a></li>
+                                         
+                                        </ul>
+                                    <span class="dd-trigger"></span></li>
+                  <li><a href="http://localhost/Cashzway/cheque-cashing.php"> Cheque Cashing </a></li>
+                                  <li><a href="#"> Gold &amp; Silver </a></li>
+
+                 <li class="cn-dropdown-item has-down"><a href="#"> About</a>
+                                        <ul class="dropdown">
+                                            <li><a href="http://localhost/Cashzway/about-us.php">About Us</a></li>
+                                            <li><a href="http://localhost/Cashzway/contact-us.php">Contact us</a></li>
+                                            <li><a href="http://localhost/Cashzway/careers.php">Careers</a></li>
+                       <li><a href="#">Corporate</a></li>
+                      <li><a href="#">Consumer Education</a></li>
+     
+                                         
+                                        </ul>
+                                    <span class="dd-trigger"></span></li>
+                  
+                                    <li><a href="#"> Store</a></li>
+                                 
+                                </ul>
+
+                                <!-- Donate Button -->
+                                <a href="#" class="btn crose-btn header-btn">Apply Now</a>
+
+                            </div>
+                            <!-- Nav End -->
+                        </div>
+                    </nav>
+                </div>
+            </div>
+
+            <!-- ***** Search Form Area ***** -->
+            <div class="search-form-area">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-12">
+                            <div class="searchForm">
+                                <form action="#" method="post">
+                                    <input type="search" name="search" id="search" placeholder="Enter keywords &amp; hit enter...">
+                                    <button type="submit" class="d-none"></button>
+                                </form>
+                                <div class="close-icon" id="searchCloseIcon"><i class="fa fa-close" aria-hidden="true"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div></div>
+        <!-- ***** Navbar Area ***** -->
+    </header>
+    <!-- ##### Header Area End ##### -->
+      <section>
+       <div class="fluid-container">
+            <img src="Cashzway_files/58780_Motomo_INO_LineInfinity_SamS7_StoneBLK_18.jpg" class="cheque-cashing-cover">
+            <div class="cheque-banner-text">
+                <h2 style="color:white">The Titanium+® Prepaid Mastercard®</h2>
+                <h6>More control. More features.</h6> 
+            <h6>More to get excited about.</h6>
+                <!--<h2 style="color:white">Serving you is how it all began.</h2>-->
+            </div>
+            <!--<h2 class="cheque-banner-text"></h2>-->
+            
+        </div>
+</section>
+
+        <div class="container cheque-text-area">
+        <!--<h3>A one-stop shop for all your cheques.</h3>-->
+        <!--<p>When you get a cheque, you want to get paid – fast. You can’t always afford to wait days for you money to clear. Banks can make it a real hassle. It shouldn't be that way. At Money Mart®, you simply bring in your cheque, any cheque, and we cash it. It’s that simple.</p>-->
+        <!--<p>When you use Money Mart you walk away with money right away. Traditional banks can make you wait and wait to get your hands on what’s yours, and bank fees and holding periods can add up to a lot of frustration. With Money Mart, we’re here waiting to serve you with the money you need when you need it.</p>-->
+        <!--<h2>We cash all this and more:</h2>-->
+
+        <div class="row section-padding-40 shadowpurpose">
+            <div class="col-sm-4">
+                <img src="Cashzway_files/payroll-icon.png" class="icon rounded mx-auto d-block">
+                <h6 class="text-center">The security of Chip &amp; PIN</h6>
+            </div>
+            <div class="col-sm-4">
+                <img src="Cashzway_files/government.png" class="icon rounded mx-auto d-block">
+                <h6 class="text-center">The convenience of Mastercard contactless</h6>
+            </div>
+            <div class="col-sm-4">
+                <img src="Cashzway_files/business.png" class="icon rounded mx-auto d-block">
+                <h6 class="text-center">Accessible through Mobile Banking</h6>
+            </div>
+            <!--<div class="col-sm-4">-->
+            <!--    <img src="./img/bg-img/personal.png" class="icon rounded mx-auto d-block">-->
+            <!--    <h3 class="text-center">Personal</h3>-->
+            <!--</div>-->
+            <!--<div class="col-sm-4">-->
+            <!--    <img src="./img/bg-img/insurance.png" class="icon rounded mx-auto d-block">-->
+            <!--    <h3 class="text-center">Insurance</h3>-->
+            <!--</div>-->
+            <!--<div class="col-sm-4">-->
+            <!--    <img src="./img/bg-img/money-order.png" class="icon rounded mx-auto d-block">-->
+            <!--    <h3 class="text-center">Money orders</h3>-->
+            <!--</div>-->
+        </div>
+    </div>
+    
+    
+    
+    
+    <!-- ##### Subscribe Area Start ##### -->
+    <section class="subscribe-area">
+        <div class="container">
+            <div class="row align-items-center">
+                <!-- Subscribe Text -->
+                <div class="col-12 col-lg-6">
+                    <div class="subscribe-text">
+                    
+                         <h5>Installment loans, apply and get approved same day.</h5><h5>
+                    </h5></div>
+                </div>
+                <!-- Subscribe Form -->
+                <div class="col-12 col-lg-6">
+                    <div class="subscribe-form text-right">
+                      
+                            
+                            <a href="#" class="btn crose-btn header-btn">Apply Now</a>
+                      
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ##### Subscribe Area End ##### -->
+
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer-area">
+        <!-- Main Footer Area -->
+        <div class="main-footer-area">
+            <div class="container">
+                <div class="row">
+
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="single-footer-widget mb-30">
+                            <a href="#" class="footer-logo"><img src="Cashzway_files/preesoft-logo.png" alt=""></a>
+                            <p>“Through service excellence and convenience, we are the leaders in providing immediate access to cash and financial services”.</p>
+                        </div>
+                    </div>
+
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="single-footer-widget mb-30">
+                            <h4 class="widget-title">Quick Links</h4>
+                            <nav class="footer-menu">
+                                <ul>
+                                    <li><a href="http://localhost/Cashzway/index.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Home</a></li>
+                                    <li><a href="http://localhost/Cashzway/cheque-cashing.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Check Cashing</a></li>
+                                    <li><a href="http://localhost/Cashzway/about-us.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> About Us</a></li>
+                                    <li><a href="http://localhost/Cashzway/business-loan.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Business Loans</a></li>
+                                    <li><a href="http://localhost/Cashzway/contact.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Contact</a></li>
+                                    <li><a href="http://localhost/Cashzway/careers.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Careers</a></li>
+                                    <li><a href="http://localhost/Cashzway/Cash-advance.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Cash Advance</a></li>
+                                    <li><a href="http://localhost/Cashzway/loan-comparison.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Compare Loans</a></li>
+                                    <li><a href="http://localhost/Cashzway/western-union.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Western Union</a></li>
+                                    <li><a href="http://localhost/Cashzway/installment-loans-faq.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> FAQs</a></li>
+                                    <li><a href="http://localhost/Cashzway/currency-exchange.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Currency Exchange</a></li>
+                                    <li><a href="http://localhost/Cashzway/bill-payments.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Payment Calculator</a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+
+
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="single-footer-widget mb-30">
+                            <h4 class="widget-title">Contact Us</h4>
+
+                            <div class="contact-information">
+                                <p><i class="fa fa-map-marker" aria-hidden="true"></i> 1942 Weston Rd, Toronto, ON, M9A 1W2</p>
+                                <a href="callto:001-1234-88888"><i class="fa fa-phone" aria-hidden="true"></i>416 243 2100</a>
+                                <p><i class="fa fa-map-marker" aria-hidden="true"></i> 4905 Dundas St. W, Etobicoke, ON, M9A 1B2</p>
+                                <a href="callto:001-1234-88888"><i class="fa fa-fax" aria-hidden="true"></i>416 236 9929</a>
+                                <a href="mailto:info.deercreative@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i> info@kashzway.ca</a>
+                                <p><i class="fa fa-clock-o" aria-hidden="true"></i> Mon - Fri: 08.00am - 18.00pm</p>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Copwrite Area -->
+        <div class="copywrite-area">
+            <div class="container h-100">
+                <div class="row h-100 align-items-center flex-wrap">
+                    <!-- Copywrite Text -->
+                    <div class="col-12 col-md-8">
+                        <div class="copywrite-text">
+                            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright ©<script>document.write(new Date().getFullYear());</script>2018 All rights reserved.<a href="http://www.preesoft.com/">Developed By Preesoft</a>
+<!--| This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://preesoft.com" target="_blank">PreeSoft</a>-->
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+</p>
+                        </div>
+                    </div>
+
+                    <!-- Footer Social Icon -->
+                    <div class="col-12 col-md-4">
+                        <div class="footer-social-icon">
+                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                            <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                            <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ##### Footer Area End ##### -->
+
+    <!-- ##### All Javascript Script ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="Cashzway_files/jquery-2.js"></script>
+    <!-- Popper js -->
+    <script src="Cashzway_files/popper.js"></script>
+    <!-- Bootstrap js -->
+    <script src="Cashzway_files/bootstrap.js"></script>
+    <!-- All Plugins js -->
+    <script src="Cashzway_files/plugins.js"></script>
+    <!-- Active js -->
+    <script src="Cashzway_files/active.js"></script><a id="scrollUp" href="#top" style="position: fixed; z-index: 2147483647;"><i class="fa fa-angle-up"></i></a>
+
+
+</body></html>

@@ -1,0 +1,230 @@
+/* CSS Document */
+
+/* Tables */
+
+.outertable
+{
+	width:800px;
+	padding:0 auto;
+	margin:0 auto;
+	border:1px;
+	border-style:solid;
+	border-color:#000;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.innertable
+{
+	padding:0 auto;
+	margin:0 auto;
+	border:1px;
+	border-style:solid;
+	border-color:#000;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.innertable td
+{	
+	border:0px;
+}
+.innertable2
+{
+	padding:0 auto;
+	margin:0 auto;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.innertable2 th
+{
+	background-color:#C2C1C1;
+	text-align:center;
+	height:30px;
+}
+.innertable2 tr
+{
+	text-align:left;
+	height:30px;
+}
+
+.innertable3
+{	
+	padding:0 auto;
+	margin:0 auto;
+	border:0px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+/* Texts and Fonts */
+.bold
+{
+	font-weight:bold; color:#000000;
+}
+.small
+{
+	font-size:8px; color:#000000;
+}
+
+.normalfont
+{
+	font-size:12px; color:#000000;
+}
+
+.normalfont2
+{
+	font-size:14px; color:#000000;
+}
+
+
+.bigfont
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#000;
+}
+.heading
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:28px;
+	font-weight:bold;
+	text-align:center;
+	color:#000;
+}
+
+.redfontbold
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	color:#F00;
+}
+.redfontboldbig
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#F00;
+}
+.justify
+{
+	text-align:justify; color:#000000;
+}
+
+
+
+
+/* Alignments */
+.top
+{
+	vertical-align:top; color:#000000;
+}
+.right
+{
+	text-align:right; color:#000000;
+}
+.left
+{
+	text-align:left; color:#000000;
+}
+.center
+{
+	text-align:center; color:#000000;
+}
+
+
+
+/* Borders */
+
+#bordercell
+{
+	border-left:1px;
+	border-right:1px;
+	border-bottom:1px;
+	border-top:1px;
+	border-style:solid;
+	border-color:#000;
+}
+
+
+#border
+{
+	border:1px;
+	border-style:solid;
+	border-color:#000;
+}
+
+#border2
+{
+	border:1px;
+	border-style:dashed;
+	border-color:#000;
+}
+
+
+#border-left
+{	
+	border-left:1px;
+	border-style:solid;
+	border-color:#000;
+}
+#border-right
+{	
+	border-right:1px;
+	border-style:solid;
+	border-color:#000;
+}
+#border-top
+{	
+	border-top:1px;
+	border-style:solid;
+	border-color:#000;
+}
+#border-bottom
+{	
+	border-bottom:1px;
+	border-style:solid;
+	border-color:#000;
+}
+
+
+/* Padding and Spacing */
+
+.paddingleft5
+{
+	padding-left:5px;
+}
+.paddingleft10
+{
+	padding-left:10px;
+}
+.paddingright10
+{
+	padding-right:10px;
+}
+.paddingleft15
+{
+	padding-left:15px;
+}
+.paddingleft25
+{
+	padding-left:25px;
+}
+.paddingright15
+{
+	padding-right:15px;
+}
+
+
+DIV.BlackLine
+{
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #000 1px solid;
+}
+
+
+DIV.BlackLine2
+{
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 90px; PADDING-TOP: 0px; BORDER-BOTTOM: #000 1px solid;
+}

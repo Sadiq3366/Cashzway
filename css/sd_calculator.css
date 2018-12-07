@@ -1,0 +1,117 @@
+.calculator .loan_styl h3{
+	font-size: 28px;
+	font-weight: 700; 
+	color: #3f6176 !important;
+          }
+.calculator{
+       border-radius:20px 20px 0px 0px;
+	   background: #e6e6e1;
+	   padding-top:10px;
+	   padding-bottom:10px;
+	   margin:0 auto;
+}
+.css_calculator{
+	           margin-top:-260px;
+			   z-index:2;
+			   margin-bottom:30px;
+	  
+	}
+.clactr_dsp{
+
+	     font-size:15px;
+	     font-family: 'MuseoSans300';
+  
+}
+p{
+	color: #1c2b39;
+	line-height: 1.5em;
+}
+.calculator .border{
+	  border-bottom: 3px dotted #fff !important;
+	  padding-bottom: 10px;
+}
+.divblock{
+	display: block;
+}
+.textfont{
+	  font-size: 18px
+}
+.bold{
+	font-family:  MuseoSans700
+}
+.noborder{
+	 border: none; 
+}
+.txtradio{
+	  font-weight: 500;
+	  font-size: 17px;
+}
+.css-label{font-weight: 400; margin-left: 5px}
+.css_no{margin-left: 18px !important;}
+.css_pad{padding: 9px 10px;
+         outline: 0; 
+         border: 2px solid #999 ; 
+         border-radius: 3px;
+         background-image: url(../img/il-grey-select.png); 
+         background-repeat: no-repeat;
+		 background-position: right;
+		 -moz-appearance:none;
+         background-size: 50px ;
+		 margin-bottom: 15px; 
+		 width: 100%;
+   font-size: 17px !important;
+   }
+ .css_link{
+
+ 	 text-decoration: underline;
+ 	 color: #3f6176;
+ }
+ .css_button{
+ 	background-color: #f0543f;
+ 	margin-top: 6px;
+ 	font-size: 17px;
+ 	color: #FFF;
+ 	padding-left: 29px !important;
+ 	padding-right: 29px !important;
+ }
+ .css_txt{
+
+ 	   font-size: 12px;
+ }
+ .loan_styl h3{width: 100%;
+ 	   margin: 0 auto}
+ .clactr_dsp{width: 80%;
+  margin: 0 auto}
+  .textfont{
+  	width: 85%;
+	font-weight:bold;
+  	margin: 0 auto;
+  }
+@media (max-width: 1199.98px) {
+
+.loan_styl h3 {
+	 width:100%;
+}
+.clactr_dsp{
+        width: 100%;
+}
+.textfont{
+	   width: 100%;
+}
+.txtradio{font-size: 16px;}
+.css_calculator{
+	  margin-top:0px;
+	}
+.loan_styl h3{
+	     
+		    font-weight:400;
+	}	
+.txtradio{
+	    font-weight:500;
+		font-size:13px;
+	}	
+.css_link{font-weight:501;
+         font-size:13px;
+}	
+	
+}
