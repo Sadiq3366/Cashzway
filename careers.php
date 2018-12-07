@@ -7,6 +7,7 @@
                 </div>
         </div>
 
+        <div class="careers section-padding-40 color_h4">
                 <div class="container">
                         <h4>Take your career to new places.</h4>
                         <p class="mb-0">Working at Kashway® isn’t just a job. It’s a chance to connect with customers and help them solve their most pressing financial problems. Our employees are proud to say, “Yes! I can help you.”</p>
