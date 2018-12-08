@@ -19,7 +19,7 @@
         <!--<p>When you use Cashzway you walk away with money right away. Traditional banks can make you wait and wait to get your hands on what’s yours, and bank fees and holding periods can add up to a lot of frustration. With Cashzway, we’re here waiting to serve you with the money you need when you need it.</p>-->
         <!--<h2>We cash all this and more:</h2>-->
 
-        <div class="row section-padding-40 shadowpurpos">
+        <div class="row section-padding-40">
             <div class="col-sm-4">
                 <img src="./img/bg-img/payroll-icon.png" class="icon rounded mx-auto d-block">
                 <h6 class="text-center">The security of Chip & PIN</h6>
@@ -47,7 +47,7 @@
         </div>
         <p class="mb-5"></p>
         <div class="col-md-12 auto_side1">
-            <div class="col-md-4 auto_side1">
+            <div class="col-md-4 auto_side1 shadowpurpos">
             <img src="img/dollars.jpg" width="100%" height="100px">
             </div>
             <div class="col-md-5 auto_side2">
@@ -61,14 +61,14 @@
                 <a href="#" class="btn btn-primary">Find a Store</a>
             </div>
 
-            <div class="col-md-4 auto_side1">
+            <div class="col-md-4 auto_side1 shadowww">
             <img src="img/dollars.jpg" width="100%" height="100px">
             </div>
             
         </div>
          <p class="mb-5"></p>
         <div class="col-md-12 auto_side1">
-            <div class="col-md-4 auto_side1">
+            <div class="col-md-4 auto_side1 shadowpurpos">
             <img src="img/dollars.jpg" width="100%" height="100px">
             </div>
             
@@ -79,7 +79,7 @@
             
         </div>
 
-          <div class="col-md-12 color_h4 section-padding-40 shadowpurpos">
+          <div class="col-md-12 color_h4">
             <h4> Sign up for DirectLoad® Convenient and reliable. A lot like us. </h4>
             
             <div class="col-md-3 auto_sid">

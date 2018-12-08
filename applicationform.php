@@ -2,14 +2,14 @@
      <div class="fluid-container">
                     <img src="img/b2b-banner-2.jpg" class="cheque-cashing-cover">
             <div class="cheque-banner-text">
-                <h1 style="color:black">Instalment Loan</h1>
+                <h1 style="color:black">Cash Advance</h1>
                 
             </div>
         </div>        
-    <!-- ##### Hero Area Start ##### -->
-    <section class="hero-area hero-post-slides owl-carousel">
+    <!-- ##### Hero Area Start ##### 
+    <section class="hero-area hero-post-slides owl-carousel">-->
         <!-- Single Hero Slide -->
-        <!--  <div class="single-hero-slide bg-img bg-overlay d-flex align-items-center justify-content-center" style="background-image: url(img/bg-img/1.jpg);">
+        <!--  <div class="single-hero-slide bg-img bg-overlay d-flex align-items-center justify-content-center" style="background-image: url(img/bg-img/1.jpg);">-->
             <!-- Post Content -->
              <!-- <div class="container">
                 <div class="row">
@@ -21,12 +21,12 @@
                         </div>
                     </div>
                 </div>
-            </div>-->
-        </div>
+            </div>
+        </div>-->
 
         <!-- Single Hero Slide -->
        <!-- <div class="single-hero-slide bg-img bg-overlay d-flex align-items-center justify-content-center" style="background-image: url(img/bg-img/2.jpg);">
-            <!-- Post Content -->
+             Post Content -->
          <!--   <div class="container">
                 <div class="row">
                     <div class="col-12">
@@ -38,8 +38,8 @@
                     </div>
                 </div>
             </div>
-        </div> -->
-    </section>
+        </div> 
+    </section>-->
     <!-- ##### Hero Area End ##### -->
 
     <!-- ##### About Area Start ##### -->
@@ -317,7 +317,7 @@ I agree to this Agreement by checking the “Agree & Continue” button on the w
       </div>
          <div class="btn_css">
         <a href="" class="btn btn-danger" id="priv1">Privius</a>
-       <button class="btn btn-danger">Agree And Continue</button>  
+       <button class="btn btn-danger">Agree And Submit</button>  
        </div>
      </div>
     </div>

@@ -7,10 +7,10 @@
             </div>
         </div>
         
-    <!-- ##### Hero Area Start ##### -->
+    <!-- ##### Hero Area Start ##### 
     <section class="hero-area hero-post-slides owl-carousel">
-        <!-- Single Hero Slide -->
-        <!--  <div class="single-hero-slide bg-img bg-overlay d-flex align-items-center justify-content-center" style="background-image: url(img/bg-img/1.jpg);">
+         Single Hero Slide -->
+        <!--  <div class="single-hero-slide bg-img bg-overlay d-flex align-items-center justify-content-center" style="background-image: url(img/bg-img/1.jpg);">-->
             <!-- Post Content -->
              <!-- <div class="container">
                 <div class="row">
@@ -22,12 +22,12 @@
                         </div>
                     </div>
                 </div>
-            </div>-->
-        </div>
+            </div>
+        </div>-->
 
         <!-- Single Hero Slide -->
        <!-- <div class="single-hero-slide bg-img bg-overlay d-flex align-items-center justify-content-center" style="background-image: url(img/bg-img/2.jpg);">
-            <!-- Post Content -->
+             Post Content -->
          <!--   <div class="container">
                 <div class="row">
                     <div class="col-12">
@@ -39,8 +39,8 @@
                     </div>
                 </div>
             </div>
-        </div> -->
-    </section>
+        </div> 
+    </section>-->
     <!-- ##### Hero Area End ##### -->
 
     <!-- ##### About Area Start ##### -->
@@ -94,7 +94,11 @@
     <div class="main">
 
         <div class="container ">
-                       
+          <div  id="main_form">
+                <div class="personal_data info_css">
+                  <h4>Your Personal Information</h4>
+                </div>
+                 
             <div class="form_data">
                 <div class="lable_control-css">
                 <form action="" method="post">
@@ -291,12 +295,94 @@
                         <label>    Loan Reservation Code   </label>
                         <input type="text" class="form-control" name="reservation">
                    </div>
-                   
-
-                </form>
+                
+                    <a href="" class="btn btn-danger" id="next">Next</a> 
+              </div> 
             </div>
-          </div>
+           </div>
+            
+            <div class="form_data" id="income">
+                <div class="personal_data">
+                  <h4>Your Primary Income</h4>
+                </div>
+                <div class="existing">  
+                <p>Source Of Income</p>
+                <select class="formcontrolcode form-control"  name="city">
+                          <option value="">Select provience</option>
+                          <option value="Punjab">Punjab</option>
+                          <option value="Kybar Pakhton Khan">Kybar Pakhton Khan</option>
+                          <option value="Balochistan">Balochistan</option>
+                          <option value="Sindh">Sindh</option>
+                </select>
+</div>
+<div class="btn_css">
+<a href="" class="btn btn-danger " id="priv">Privius</a>
+<a href="" class="btn btn-danger" id="next1">Next</a> 
+</div>
+</div>
+<div class="form_data col-offset-4" id="account">
+                <div class="personal_data">
+                  <h4>Your Bank Account</h4>
+                </div>
+                <div class="existing">  
+                <p>I understand and agree that MONEY MART may collect, use and/or disclose My Personal Information for any or all of the purposes disclosed in thePersonal Information Consents and RepresentationsAgreement, and I authorize MONEY MART to access my credit report (or such other similar report), call/message a phone number or send an email to an address provided by me, for those purposes.</p>
+                 <textarea class="form-control" rows="30">
 
+PERSONAL INFORMATION CONSENTS AND REPRESENTATIONS AGREEMENT
+
+I may periodically provide to National Money Mart Company, and/or its franchises, agents, representatives, affiliates, successors, and assigns (collectively “Money Mart”), and Money Mart may periodically collect from or about me, certain personal information and records which may include among other things: name; current home and work addresses (including email addresses); previous addresses; current phone numbers (home, work, or other); physical descriptors and any such other identifiers (including, but not limited to, date of birth and Social Insurance Number); credit history, including credit reports, consumer reports, personal reports, or such other similar reports; next of kin; personal references; source and amount of income; financial information necessary to verify my creditworthiness; transactions with Money Mart; and agreements and other documents pertaining to transactions with Money Mart (“My Personal Information”).
+
+I understand that Money Mart collects, and as permissible by law, uses and/or discloses My Personal Information for any or all of the following purposes:
+(1) to obtain credit information and credit reports (or such other similar reports) on me from credit reporting agencies (or such other similar entity) to assess credit history and credit worthiness and to confirm accuracy of information provided by me; (2) to confirm my identity; (3) to meet legal and regulatory requirements; (4) to confirm details of my employment; (5) to collect a debt that may become owed to Money Mart; (6) to extract certain information for the purpose of generating statistics for its internal purposes; (7) to record, track and respond to my feedback and complaints; and (8) to evaluate, complete, facilitate, or otherwise as part of any business transaction or prospective business transaction involving Money Mart, which may include but are not limited to the purchase or sale of the whole, part, or any assets of Money Mart, the making of a loan or other financing to Money Mart, and the creation of a charge or taking of security interest in or on any assets of Money Mart (generally “Business Transaction”), and as may be required to be disclosed to, or collected and used by, third parties from time to time for the purposes of same; and (9) to facilitate and allow verification of my transactions, including but not limited to origination, payment, and charge-off of my loan, with Money Mart, by third parties which may be located in the United States of America (“USA”) and Europe, and as may be required from time to time as part of any Business Transaction involving Money Mart. I further understand that Money Mart will share and store My Personal Information and other transaction information with affiliated companies of Money Mart located in the USA for the purposes listed above and that Money Mart will keep track of my feedback and complaints utilizing a third party service provider whose servers are located in Europe and I agree and authorize to such collection, use and disclosure.
+
+Further, I acknowledge and agree that by using the services of Money Mart, I am consenting to Money Mart and the third parties referenced above collecting, and as permissible by law, using, and disclosing My Personal Information for these purposes. Without limiting any of the foregoing or any other provision in this Agreement, or the provisions of any other provisions between Money Mart and I, I further and specifically consent to and authorize Money Mart to: (a) verify the accuracy of the information contained in my application by, among other actions, checking my credit report (or such other similar reports) before entering into any transaction with Money Mart for the purposes identified above; (b) to check my credit report (or such other similar reports) for any legitimate business need in connection with a transaction between me and Money Mart; (c) submit my application to a consumer reporting agency (or such other similar entity); (d) call my employer to confirm employment, (e) contact me for any reason related to my loan application, my loan, and Money Mart’s services and promotions, , and (f) obtain my bank account information. If I obtain one or more loan transactions from Money Mart, I authorize Money Mart to service my transactions by obtaining information about my whereabouts from the contact persons I have listed.
+
+I represent and agree that My Personal Information provided to Money Mart is accurate and complete. If there is a change in My Personal Information, I agree to advise Money Mart.
+
+I further agree and authorize Money Mart to utilize My Personal Information to offer specialized services or to assess whether such services may be available or of interest to me, as permissible by law. I further agree and authorize that My Personal Information may be shared with third parties for this purpose. Upon giving reasonable notice to Money Mart, I understand that I may withdraw my consent to Money Mart using My Personal Information or providing to third parties for these purposes (subject to legal or contractual limitations).
+
+I understand that cookies are small data files placed on my computer by a website. They may store and transmit information to websites that I visit. I understand that www.moneymart.ca uses cookies on its website to:
+
+    Help provide its on-line products and services to me
+    Market those products and services
+    Analyze the flow of traffic to its website
+    Analyze and track the traffic of website users from page to page within its website
+
+I understand that third party vendors, including Google, may:
+
+    Show Money Mart’s ads on websites on the internet
+    Use cookies to serve ads based on my prior visits to Money Mart’s website
+
+I may accept or decline cookies through the configuration settings of my web-browser. I may also opt out of Google’s use of cookies by visiting the Google advertising opt-out page.
+
+Pixel tags (or clear gifs) are small transparent graphic images placed on a website that are not normally visible to the user. They provide non-identifiable information about my usage of the website. I understand that www.moneymart.ca uses pixel tags to:
+
+    Note pages visited on its website
+    Assist in the administration of affiliate accounts
+
+For more information on Money Mart’s policies and procedures relating to management of My Personal Information, I may contact Money Mart at 401 Garbally Road, Victoria, British Columbia, V8T 5M3, or 1-877-399-5350 Attention: Privacy Officer, or visit www.moneymart.ca.
+
+I further consent and agree to use and accept electronic signatures, electronic records, and electronic disclosures in connection with any and all transactions I have with Money Mart, and specifically consent and agree to Money Mart delivering any agreements and associated documentation, information, and records, including but not limited to disclosures, receipts, and notices (collectively “Documents”), to me by email sent to the address provided by me. I understand, acknowledge, and agree that I can access electronic records and that I may also request a paper copy of the Documents at any time and at no charge.
+
+I further consent and agree that Money Mart may contact me at any address, email or telephone number I have provided to Money Mart.
+
+If I reside in the Province of Manitoba, any consent that I give in this Personal Information Consents and Representations Agreement also constitutes consent to a “personal investigation” as defined in The Personal Investigation Act, as applicable. This signed Agreement forms written consent to a personal investigation by me.
+
+This Agreement is effective from the time I sign this Agreement, irrespective of whether my interactions, dealings, transactions, or otherwise with Money Mart result in a loan agreement, until such time as I withdraw my agreement and consent to this Agreement.
+
+I agree to this Agreement by checking the “Agree & Continue” button on the website.
+
+</textarea> 
+      </div>
+         <div class="btn_css">
+        <a href="" class="btn btn-danger" id="priv1">Privius</a>
+       <button class="btn btn-danger">Agree And Submit</button>  
+       </div>
+     </div>
+    </div>
+</form>
+          </div>
+            
 
         </div>
 

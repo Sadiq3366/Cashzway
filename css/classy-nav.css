@@ -814,6 +814,18 @@ img {
            padding-right: 30px;
 
 }
+.shadowww{
+           width: 100%;
+           float:left;
+           margin-bottom:20px;
+           margin:0 auto;
+           padding-top: 10px;
+           padding-bottom:30px;
+           box-shadow: -9px -5px 5px grey;
+           padding-left: 30px;
+           padding-right: 30px;
+}
+
 .auto_side{
            float: left;
            margin:0 auto;
@@ -889,7 +901,7 @@ img {
      
                  }
  .applyBox{
-          width: 80%;
+          width: 83%;
           margin: 0 auto;
           background-color: #ffc107;
           padding: 10px;
@@ -961,6 +973,7 @@ img {
     text-decoration: none;
     cursor: pointer;
 }       
+.info_css{width: 80%}
 @media(max-width:1199.98px)
 {
 	.col_md_float {width:110%;}
