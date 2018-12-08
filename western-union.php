@@ -12,9 +12,9 @@
                 <div class="col-sm-9 color_h4 section-padding-40">    
                         <div class="about-us">
                                 <h4>Another cash emergency solved.</h4>
-                                    <p class="mb-0">Whether your need to send money overseas or to the other side of town, Money Mart® is your connection to friends and family all over the world.
+                                    <p class="mb-0">Whether your need to send money overseas or to the other side of town, Cashzway® is your connection to friends and family all over the world.
 
-Come to the Western Union® counter at any participating Money Mart store and fill out a send or receive form. We’re connected to nearly 500,000 Western Union agent locations in over 200 countries and territories worldwide. You can quickly and easily send and receive Domestic, International, Quick Collect®, SwiftPay® and Western Union Money Transfers.
+Come to the Western Union® counter at any participating Cashzway store and fill out a send or receive form. We’re connected to nearly 500,000 Western Union agent locations in over 200 countries and territories worldwide. You can quickly and easily send and receive Domestic, International, Quick Collect®, SwiftPay® and Western Union Money Transfers.
 
 There's no need for credit cards, debit cards, bank accounts, or memberships of any kind.</P>
 

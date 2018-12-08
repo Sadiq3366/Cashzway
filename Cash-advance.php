@@ -19,7 +19,7 @@
             <div class="row align-items-center justify-content-between color_h4 color_h5">
                 <div class="col-12 col-lg-6">
 				<div class="applyBox">
-                    <div class="about-content css_content_top">
+                    <div class="about-content  color_h4">
                         <h4>Apply online, get approved online.</h4>
                         <p class="mb-0">Alberta, British Columbia, Nova Scotia, Saskatchewan and Ontario</p>
                          <p class="mb-0"> Deposit cash directly to your chequing account or pick up in-store. </p>
@@ -30,7 +30,7 @@
 				</div>
                 <div class="col-12 col-lg-6">
 				<div class="applyBox">
-                    <div class="about-content css_content_top">
+                    <div class="about-content color_h4">
                         <h4>Apply online, get approved in-store. </h4>
                         <p class="mb-0">Manitoba</p>
                          <p class="mb-0"> Start your application online and speed up your in-store service. </p>
@@ -50,7 +50,7 @@
                          <p class="mb-0"> Applying for an online payday loan is fast, easy and secure. </p>
 						   <p> Whether you have bills to pay, an unexpected emergency, 
 						   or need cash until the next payday - an online payday loan
-						   from Cashzway has you covered. Apply now using our secure
+						   from Cashzway has you covered. <a href="eligibility-calculator.php" style="color: red">Apply now </a>using our secure
 						   online payday loan application.</p>
 						   <h4> To apply, you will need to:</h4>
 						   <ul class="ulteting">
@@ -65,7 +65,7 @@
 						   </li>
 						   
 						   <li>
-						   Live in Alberta, British Columbia, Nova Scotia, Saskatchewan or Ontario
+						   Live in  Ontario
 						   </li>
 						   <li>
 						   Have a chequing account

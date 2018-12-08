@@ -48,10 +48,10 @@
                       </div>
                      <div class="col_row">
                        A Cash Advance loan is a short-term advance of money to help you meet your short term financial needs. Typically, this type of loan is repaid on your next payday.
-                       <a class="learn_css" href="#">Learn More</a>
+                       <a class="learn_css" href="installment-loan-faq.php">Learn More</a>
                      </div>
                      <div class="col_row row_media">
-An Installment Loan is money you borrow and pay back with flexible repayment options that range from 12 to 60 months*.                        <a class="learn_css" href="#">Learn More</a>
+An Installment Loan is money you borrow and pay back with flexible repayment options that range from 12 to 60 months*.                        <a class="learn_css" href="installment-loan-faq.php">Learn More</a>
                       </div>  
                    </div>   
                <div class="rows col-md-12">

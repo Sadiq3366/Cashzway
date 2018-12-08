@@ -12,7 +12,7 @@
                 <div class="col-sm-9 section-padding-40 color_h4">    
                         <div class="about-us">
                                 <h4>Electronic Bill Payments</h4>
-                                    <p class="mb-0">Sure you can get your cash at Money Mart® – but you can also pay bills here too. Easily and securely pay more than 2,400 companies
+                                    <p class="mb-0">Sure you can get your cash at Cashzway – but you can also pay bills here too. Easily and securely pay more than 2,400 companies
                                     through TelPay e-payment services. Just $1.99 per bill and we’ll take care of the rest. No cheques, envelopes or stamps required!</P>
                                     
                                     

@@ -17,11 +17,11 @@
                 <div class="col-12 col-lg-6">
                     <div class="about-content color_h4 color_h5 bold_option">
                         <h4>How Does an Installment Loan Work?</h4>
-                        <p class="mb-0">It's quite simple, really. A Money MartÂ®
+                        <p class="mb-0">It's quite simple, really. A Cashzway
 						Installment Loan is money you borrow, up to $15,000, 
 						and pay back with flexible repayment options of 12 to 60 months*.
 						Each payment will automatically be deducted from your bank account,
-						so you'll never have to worry about missing a payment.</p>
+						so you'll never have to worry about missing a payment  or you may choose to return back in Cash.</p>
                      <ul class=" il-list-icon">
                             <li>
                                 
@@ -32,11 +32,11 @@
                 </li>
                 <li>
                     
-                <h5>No Hidden Anything!</h5>Money Mart Installment loans are very easy to understand, no hidden fees and no strings attached.
+                <h5>No Hidden Anything!</h5>Cashzway Installment loans are very easy to understand, no hidden fees and no strings attached.
                  </li>
                 <li>
                 
-                <h5>No-Hassle Application</h5>Applying online is easy, and if approved, you can pick up your funds in-store the same day or you can deposit the funds into your bank account in 1-2 business days (depending on when we receive and review your supporting documentation).
+                <h5>No-Hassle Application</h5>Applying online is easy, and if approved, you may get money directly into your bank account or in Card or can pick up your funds in-store the same day or you can deposit the funds into your bank account in 1-2 business days (depending on when we receive and review your supporting documentation).
                   </li>
                          </ul>
                     </div>
@@ -47,7 +47,7 @@
                 <div class="col-12 col-lg-6">
                     <div class="about-content color_h4">
                         <h4>Ready to Apply?</h4>
-                        <p class="mb-0">It's quite simple, really. A Money MartÂ®
+                        <p class="mb-0">It's quite simple, really. A Cashzway
 						Installment Loan is money you borrow, up to $15,000, 
 						and pay back with flexible repayment options of 12 to 60 months*.
 						Each payment will automatically be deducted from your bank account,
@@ -56,12 +56,12 @@
 					   Apply now and we will tell you how much you qualify for within minutes.
 					   Final approval and funding of the loan is contingent upon your electronic
 					   signature on the loan agreement and verification of your application information. 
-					   Once verified and approved, you can receive your cash same day with in-store pickup
+					   Once verified and approved, you can receive your cash same day 
 					   or you can deposit the funds in your bank account in 1-2 business days (depending on
 					   when we receive and review your supporting documentation). It's your choice.
 					   </p>
 					   <p class="mb-0">
-					   Have questions or want to talk to a loan specialist, call us at 844-515-0454
+					   Have questions or want to talk to a loan specialist, call us at 1-416-243-2100
 					   and we will be happy to walk you through the entire process.
 					   </p>
 					   

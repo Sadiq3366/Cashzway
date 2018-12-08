@@ -10,7 +10,7 @@
                                 <h4>Currency Exchange</h4>
                                     <p>Going on holiday? Traveling with work? 
                                     Just came home? We buy and sell all the top currencies* from around the world at competitive rates. </p>
-                                    <P>Rates change regularly as international money markets fluctuate, so call a MONEY MART® branch near you for the latest quote.
+                                    <P>Rates change regularly as international money markets fluctuate, so call a Cashzway branch near you for the latest quote.
                                         </P>
                                 </div>
                              </div>

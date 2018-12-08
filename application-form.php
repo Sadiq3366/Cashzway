@@ -55,13 +55,13 @@
                        
                         <div class="about-text">
                             <h4> Cashzway® Installment Loan </h4>
-							<h6>Safe & Private with Fast Online Approval in 3 Easy Steps!</h6>
+							<h6>Safe & Private with Fast Online Approval in 4 Easy Steps!</h6>
 							<ul class="ul-form">
 							<ol>Complete our simple, secure online application below
 							</ol>
 							<li>Receive an Online Decision within minutes
 							</ol>
-							<ol>Visit Store to pickup cash and finalize documentation
+							<ol>Sign and Submit documents online (if loan amount is less than 2000) or Visit Store to pickup cash and finalize documentation
 							</ol>
 							
 							
@@ -69,7 +69,7 @@
 							</ul>
 							
                             <h6>Start your application online and receive a decision within minutes.
-							Once approved, simply visit ANY of our stores to finalize your documentation 
+							Once approved, simply submit you consent / signature through online signature option  or visit ANY of our stores to finalize your documentation 
 							and pick up or have the cash deposited directly to your bank account.</h6>
                             <!-- <a href="#">Read More <i class="fa fa-angle-double-right"></i></a>-->
 							<h6>Online Installment loan applications are available Nationwide except Quebec.</h6>
@@ -93,99 +93,211 @@
 	
     <div class="main">
 
-        <div class="container">
-            <div class="signup-content">
-               
-                <div class="signup-form">
-                    <form method="POST" class="register-form" id="register-form">
-                        <div class="form-row">
-                            <div class="form-group">
-                                <div class="form-input">
-                                    <label for="first_name" class="required">First name</label>
-                                    <input type="text" name="first_name" id="first_name" />
-                                </div>
-                                <div class="form-input">
-                                    <label for="last_name" class="required">Last name</label>
-                                    <input type="text" name="last_name" id="last_name" />
-                                </div>
-                                <div class="form-input">
-                                    <label for="company" class="required">Company</label>
-                                    <input type="text" name="company" id="company" />
-                                </div>
-                                <div class="form-input">
-                                    <label for="email" class="required">Email</label>
-                                    <input type="text" name="email" id="email" />
-                                </div>
-                                <div class="form-input">
-                                    <label for="phone_number" class="required">Phone number</label>
-                                    <input type="text" name="phone_number" id="phone_number" />
-                                </div>
-                            </div>
-                            <div class="form-group">
-                                <div class="form-select">
-                                    <div class="label-flex">
-                                        <label for="meal_preference">meal preference</label>
-                                        <a href="#" class="form-link">Lunch detail</a>
-                                    </div>
-                                    <div class="select-list">
-                                        <select name="meal_preference" id="meal_preference">
-                                            <option value="Vegetarian">Vegetarian</option>
-                                            <option value="Kosher">Kosher</option>
-                                            <option value="Asian Vegetarian">Asian Vegetarian</option>
-                                        </select>
-                                    </div>
-                                </div>
-                                <div class="form-radio">
-                                    <div class="label-flex">
-                                        <label for="payment">Payment Mode</label>
-                                        <a href="#" class="form-link">Payment Detail</a>
-                                    </div>
-                                    <div class="form-radio-group">            
-                                        <div class="form-radio-item">
-                                            <input type="radio" name="payment" id="cash" checked>
-                                            <label for="cash">Cash</label>
-                                            <span class="check"></span>
-                                        </div>
-                                        <div class="form-radio-item">
-                                            <input type="radio" name="payment" id="cheque">
-                                            <label for="cheque">Cheque</label>
-                                            <span class="check"></span>
-                                        </div>
-                                        <div class="form-radio-item">
-                                            <input type="radio" name="payment" id="demand">
-                                            <label for="demand">Demand Draf</label>
-                                            <span class="check"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="form-input">
-                                    <label for="chequeno">DD / Cheque No.</label>
-                                    <input type="text" name="chequeno" id="chequeno" />
-                                </div>
-                                <div class="form-input">
-                                    <label for="blank_name">Drawn on ( Bank Name)</label>
-                                    <input type="text" name="blank_name" id="blank_name" />
-                                </div>
-                                <div class="form-input">
-                                    <label for="payable">Payable at</label>
-                                    <input type="text" name="payable" id="payable" />
-                                </div>
-                            </div>
+        <div class="container ">
+                       
+            <div class="form_data">
+                <div class="lable_control-css">
+                <form action="" method="post">
+                    <div class="form-group">
+                        <label>*First Name</label>
+                        <input type="text" class="form-control" name="fname" required="">
+                    </div>
+                    <div class="form-group">
+                        <label>*Last Name</label>
+                        <input type="text" class="form-control" name="lname" required="">
+                    </div>
+
+                    <div class="form-group">
+                        <label>*Email Address</label>
+                        <input type="email" class="form-control" name="email" required="">
+                    </div>
+                    <div class="form-group">
+                        <label>*Conform Email Address</label>
+                        <input type="text" class="form-control" name="re_email" required="">
+                    </div>
+                    <div class="form-group">
+                        <label>*Street Address</label>
+                        <input type="text" class="form-control" name="s_address" required="">
+                    </div>
+                    <div class="form-group">
+                        <label>P/O Box</label>
+                        <input type="text" class="form-control" name="P/O" required="">
+                    </div>
+                    <div class="form-group">
+                        <label>*Province And Postal Code</label>
+                    </div> 
+                    <div class="form-group">
+                        <select required="" name="province" class="formcontrol form-control">
+                         <option value="">Select City</option>
+                         <option value="Punjab">Punjab</option>
+                         <option value="Sindh">Sindh</option>
+                         <option value="Balochistan">Balochistan</option>
+                         <option value="Khybar Pakhton Khawan">Khybar Pakhton Khawan</option>   
+                        </select>
+                         <input type="text" class="formcontrolcode form-control" name="code" required="" placeholder="XXX-XXX">
+                    </div>
+                    <div class="form-group">
+                        <label>*City</label>
+                        <select required="" name="city" class="form-control">
+                         <option value="">Select City</option>
+                         <option value="Lahore">Lahore</option>
+                         <option value="Karachi">Karachi</option>
+                         <option value="Rahim yar khan">Rahim Yar Khan</option>   
+                        </select>
+                        
+                       
+                    </div>
+                    <div class="form-group">
+                        <label>*Time at address</label>
+                        <select required="" name="duration" class="form-control">
+                         <option value="">Select Duration</option>
+                         <option value="0 to 6 Month">0 to 6 Month</option>
+                         <option value="6 to 12 Month">6 to 12 Month</option>
+                         <option value="12 month to 2 Years">12 month to 2 Years</option>   
+                        </select>
                         </div>
-                        <div class="donate-us">
-                            <label>Donate us</label>
-                            <div class="price_slider ui-slider ui-slider-horizontal">
-                                <div id="slider-margin"></div>
-                                <span class="donate-value" id="value-lower"></span>
-                            </div>
-                        </div>
-                        <div class="form-submit">
-                            <input type="submit" value="Submit" class="submit" id="submit" name="submit" />
-                            <input type="submit" value="Reset" class="submit" id="reset" name="reset" />
-                        </div>
-                    </form>
-                </div>
+                    <div class="form-group">
+                        <label>*Phone(Must provide One)</label>
+                    </div>
+                    <div class="form-group">    
+                         <input type="text" class="formcontrol form-control" name="phone" required="" placeholder="Enter Home Number">
+                        <input type="text" class="formcontrol form-control" name="phone" required="" placeholder="Enter Mobile Number">
+                    </div>
+                    <div class="form-group">
+                        <label>*Birth Date</label>
+                    </div>
+                    <div class="form-group">
+                        <select required="" name="month" class="formdate form-control">
+                         <option value="">Select Month</option>
+                         <option value="1">January</option>
+                         <option value="2">February</option>
+                         <option value="3">March</option>
+                         <option value="4">April</option>
+                         <option value="5">May</option>
+                         <option value="6">Jun</option>
+                         <option value="7">Jully</option>
+                         <option value="8">August</option>   
+                         <option value="9">September</option>
+                         <option value="10">Actober</option>
+                         <option value="11">November</option>
+                         <option value="12">December</option>
+                         
+                        </select>
+                        <select required="" name="day" class="formdate form-control">
+                         <option value="">Select Day</option>
+                         <option value="01">1</option>
+                         <option value="02">2</option>
+                         <option value="03">3</option>
+                         <option value="04">4</option>
+                         <option value="05">5</option>
+                         <option value="06">6</option>
+                         <option value="07">7</option>
+                         <option value="08">8</option>   
+                         <option value="09">9</option>
+                         <option value="10">10</option>
+                         <option value="11">11</option>
+                         <option value="12">12</option>
+                         <option value="13">13</option>
+                         <option value="14">14</option>
+                         <option value="15">15</option>
+                         <option value="16">16</option>
+                         <option value="17">17</option>
+                         <option value="18">18</option>
+                         <option value="19">19</option>
+                         <option value="20">20</option>
+                         <option value="21">21</option>   
+                         <option value="22">22</option>
+                         <option value="23">23</option>
+                         <option value="24">24</option>
+                         <option value="25">25</option>
+                         <option value="26">26</option>
+                         <option value="27">27</option>
+                         <option value="28">28</option>
+                         <option value="29">29</option>
+                         <option value="30">30</option>
+                         <option value="31">31</option>
+                         
+                         </select>
+                        <select required="" name="year" class="formdate form-control">
+                         <option value="">Select Year</option>
+                         <option value="1996">1996</option>
+                         <option value="1997">1997</option>
+                         <option value="1998">1998</option>
+                         <option value="1999">1999</option>
+                         <option value="2000">2000</option>
+                         <option value="2000">2001</option>
+                         <option value="2000">2002</option>
+                         <option value="2000">2003</option>
+                         <option value="2000">2004</option>
+                         <option value="2000">2005</option>
+                         <option value="2000">2006</option>
+                         <option value="2000">2007</option>
+                         <option value="2000">2008</option>
+                         <option value="2000">2009</option>
+                         <option value="2000">2010</option>
+                         <option value="2000">2011</option>
+                         <option value="2000">2012</option>
+                         <option value="2000">2013</option>
+                         <option value="2000">2014</option>
+                         <option value="2000">2015</option>
+                         <option value="2000">2016</option>
+                         <option value="2000">2017</option>
+                         <option value="2000">2018</option>
+                         
+                         </select>
+                        
+                              </div>
+                    <div class="form-group">
+                        <label>SIN</label>
+                        <input type="text" class="form-control" name="SIN">
+                    </div>
+                   <div class="form-group">
+                        <label>Purpose Of Loan</label>
+                        <select required="" name="phone" class="form-control">
+                         <option value="">Select Purpose Of Loan</option>
+                         <option value="1">January</option>
+                         <option value="2">February</option>
+                         <option value="3">March</option>
+                         <option value="4">April</option>
+                         <option value="5">May</option>
+                         <option value="6">Jun</option>
+                         <option value="7">Jully</option>
+                         <option value="8">August</option>   
+                         <option value="9">September</option>
+                         <option value="10">Actober</option>
+                         <option value="11">November</option>
+                         <option value="12">December</option>
+                         
+                        </select>
+                       </div>
+                   <div class="form-group">
+                        <label> *Do you own or rent your home? </label>
+
+                        <input type="radio" name="home" value="rent" required="">
+                        <label>Rent</label>
+                        <input type="radio" name="home" value="own" required="" checked="">
+                        <label>Own</label>
+                        
+                    </div>
+                   <div class="form-group">
+                        <label>  *Monthly Contribution to mortgage or rent  </label>
+                        <input type="text" class="form-control" name="mortge/rent" required="">
+                   </div>
+                   <div class="form-group">
+                        <label>   *Number of dependants   </label>
+                        <input type="text" class="form-control" name="dependants" required="">
+                   </div>
+                   <div class="form-group">
+                        <label>    Loan Reservation Code   </label>
+                        <input type="text" class="form-control" name="reservation">
+                   </div>
+                   
+
+                </form>
             </div>
+          </div>
+
+
         </div>
 
     </div>

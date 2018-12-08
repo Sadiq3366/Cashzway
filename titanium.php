@@ -15,8 +15,8 @@
 
         <div class="container cheque-text-area">
         <!--<h3>A one-stop shop for all your cheques.</h3>-->
-        <!--<p>When you get a cheque, you want to get paid – fast. You can’t always afford to wait days for you money to clear. Banks can make it a real hassle. It shouldn't be that way. At Money Mart®, you simply bring in your cheque, any cheque, and we cash it. It’s that simple.</p>-->
-        <!--<p>When you use Money Mart you walk away with money right away. Traditional banks can make you wait and wait to get your hands on what’s yours, and bank fees and holding periods can add up to a lot of frustration. With Money Mart, we’re here waiting to serve you with the money you need when you need it.</p>-->
+        <!--<p>When you get a cheque, you want to get paid – fast. You can’t always afford to wait days for you money to clear. Banks can make it a real hassle. It shouldn't be that way. At Cashzway®, you simply bring in your cheque, any cheque, and we cash it. It’s that simple.</p>-->
+        <!--<p>When you use Cashzway you walk away with money right away. Traditional banks can make you wait and wait to get your hands on what’s yours, and bank fees and holding periods can add up to a lot of frustration. With Cashzway, we’re here waiting to serve you with the money you need when you need it.</p>-->
         <!--<h2>We cash all this and more:</h2>-->
 
         <div class="row section-padding-40 shadowpurpos">
@@ -51,13 +51,13 @@
             <img src="img/dollars.jpg" width="100%" height="100px">
             </div>
             <div class="col-md-5 auto_side2">
-                <p>Visit a Money Mart store near you to apply for a Titanium+ Prepaid Mastercard. </p>
+                <p>Visit a Cashzway store near you to apply for a Titanium+ Prepaid Mastercard. </p>
             </div>
          </div>   
             <p class="mb-5"></p>
         <div class="col-md-12 auto_side1">
             <div class="col-md-5 auto_side2">
-                <p>Visit a Money Mart store near you to apply for a Titanium+ Prepaid Mastercard. </p>
+                <p>Visit a Cashzway store near you to apply for a Titanium+ Prepaid Mastercard. </p>
                 <a href="#" class="btn btn-primary">Find a Store</a>
             </div>
 

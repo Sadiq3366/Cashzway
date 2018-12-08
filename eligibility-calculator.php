@@ -26,7 +26,9 @@
     			<h3>Installment Loan Eligibility Calculator</h3>
     			</span>
     			<p class="text-center clactr_dsp1 clactr_dsp">
-    				Use our calculator to estimate the amount of an Installment Loan that you may qualify for up to $15,000.
+    				Use our calculator to estimate the amount of an Installment Loan that you may qualify for up to $15,000. No credit check required for eligibility calculator
+*Please note, this is not an application for credit. Results of this calculator do not guarantee approval or loan amount. Factors such as bankruptcy, ability to pay, and actual credit history (among other factors) will impact your eligibility for a loan.
+
     			</p>
     			<label class="bold text-center border divblock textfont">
     				No credit check required for eligibility calculator.

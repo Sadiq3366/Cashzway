@@ -19,12 +19,8 @@
        <link rel="stylesheet" href="vendor/nouislider/nouislider.min.css">
        <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
        <link rel="stylesheet" href="css/sd_calculator.css" type="text/css">
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/nouislider/nouislider.min.js"></script>
-    <script src="vendor/wnumb/wNumb.js"></script>
-    <script src="vendor/jquery-validation/dist/jquery.validate.min.js"></script>
-    <script src="vendor/jquery-validation/dist/additional-methods.min.js"></script>
-    <script src="js/main.js"></script>
+       <script type="text/javascript" src="js/jquery/jquery-2.2.4.min.js"></script>
+       <script type="text/javascript" src="js/validations.js"></script>  
 <script language="javascript" type="text/javascript">
   function myFunction() {
     var loan = $('#amount').val(),
@@ -222,9 +218,9 @@ $(function(){
                                                 
                                             </ul>
                                             <ul class="single-mega cn-col-4">
-                                                <li><a href="Cash-advance.php">Cash Advance</a></li>
+                                                <li><a href="Cash-advance.php">Payday Loan / Cash Advance</a></li>
                          <li><a href="cash-advance-faq.php">How it works</a></li>
-                                                 <li><a href="application-form.php">Apply Now</a></li>
+                                                 <li><a href="applicationform.php">Apply Now</a></li>
                          <li><a href="cash-advance-faq.php">FAQs</a></li>
                         <li><a href="cash-advance-pricing.php">Pricing</a></li>
                                                 <li><a href="cash-advance-dept-repayment.php">Debt Repayment</a></li>

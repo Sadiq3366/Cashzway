@@ -120,9 +120,9 @@ What Do I Need to Apply</h5><p class="mb-0">
         <!-- Card body -->
         <div id="collapse5" class="collapse" role="tabpanel" aria-labelledby="heading5" data-parent="#accordionEx1">
             <div class="card-body pt-0">
-                <p>Upon online approval, you can choose to verify your documents online and receive
+                <p>Upon online approval, you may get loan directly into your bank account subject to validation of all documents and if the loan amount is  not more than 2000 otherwise will need to visit ANY Kash Z Way can choose to verify your documents online and receive
 				your funds electronically within 2 business days, or you can verify your documents 
-				in-store and pickup your cash the same day.</p>
+				in-store and pickup your cash the same day. You may choose to get the payment in your Kash Z Way issues Prepaid / Master Card</p>
             </div>
         </div>
     </div>
@@ -145,7 +145,7 @@ What Do I Need to Apply</h5><p class="mb-0">
             <div class="card-body pt-0">
                 <p>You will receive a decision once your loan application is submitted.
 				However, funding of the loan is contingent upon verification of your 
-				application information and signature on all loan agreements.</p>
+				application information and signature on all loan agreements.Online Signature option is also available.</p>
             </div>
         </div>
     </div>
@@ -192,7 +192,7 @@ What Do I Need to Apply</h5><p class="mb-0">
 				outlines the terms and conditions of the loan. It is important that
 				you read and understand the terms and conditions of the agreement.
 				If you have any questions concerning the agreement, please contact
-				customer service at Installmentonline@moneymart.ca or by calling 1-877-819-5857.</p>
+				customer service at info@kashzway@gmail.com or by calling 1-416-243-2100.</p>
             </div>
         </div>
     </div>

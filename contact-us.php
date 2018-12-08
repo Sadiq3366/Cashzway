@@ -11,7 +11,7 @@
         <div class="row section-padding-40">
             <div class="col-sm-6 color_h4">
                 <h4>GENERAL INQUIRIES</h4>
-                <p>National Money Mart® Company<br>
+                <p>National Cashzway Company<br>
                         401 Garbally Road<br>
                         Victoria, British Columbia<br>
                         V8T 5M3<br>

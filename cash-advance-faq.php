@@ -27,7 +27,7 @@
             </div>
          </div>           
             <div class="col-12 col-lg-10 auto_side color_h4 color_h5">
-						<h4> About short term payday loans obtained through the MoneyMart.ca website</h4>
+						<h4> About short term payday loan/Cash Advances obtained through the MoneyMart.ca website</h4>
                      
 	<div class="container">
   <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
@@ -35,18 +35,18 @@
       <div class="panel-heading" role="tab" id="headingOne">
         <h4 class="panel-title">
         <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne" class="faq_clr">
-          What is a payday loan?
+          What is a payday loan/Cash Advance/Cash Advance?
         </a>
       </h4>
       </div>
       <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
         <div class="panel-body">
           <p class="mb-0">
-         A payday loan is an advance of money to help you meet your short term financial needs.
-		 Typically, the loan is repaid on your next payday. When a payday loan is obtained
+         A payday loan/Cash Advance/Cash Advance is an advance of money to help you meet your short term financial needs.
+		 Typically, the loan is repaid on your next payday. When a payday loan/Cash Advance is obtained
 		 through MoneyMart.ca, funds are available either for in-store pickup or deposited electronically 
 		 into your bank account. Payments are usually withdrawn from your bank account by electronic debit. 
-		 Be advised that payday loans should not be used as a long term financial solution.
+		 Be advised that payday loan/Cash Advances should not be used as a long term financial solution.
     </p>
         </div>
       </div>
@@ -55,17 +55,17 @@
       <div class="panel-heading" role="tab" id="headingTwo">
         <h4 class="panel-title">
         <a class="collapsed faq_clr" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          Why do people choose a payday loan?
+          Why do people choose a payday loan/Cash Advance/Cash Advance?
         </a>
       </h4>
       </div>
       <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
         <div class="panel-body">
           <p class="mb-0">
-         Millions of Canadians with steady incomes find that payday loans
+         Millions of Canadians with steady incomes find that payday loan/Cash Advance/Cash Advance
 		 are the perfect solution to their short term financial needs. 
 		 Sometimes consumers find themselves short on cash and can't wait 
-		 until their next payday. A payday loan provides quick access to the money they need.
+		 until their next payday. A payday loan/Cash Advance/Cash Advance provides quick access to the money they need.
        </p>
         </div>
 		
@@ -75,7 +75,7 @@
       <div class="panel-heading" role="tab" id="headingThree">
         <h4 class="panel-title">
         <a class="collapsed faq_clr" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Is there a limit to how many payday loans I can receive?
+          Is there a limit to how many payday loan/Cash Advances I can receive?
         </a>
       </h4>
       </div>
@@ -83,7 +83,7 @@
         <div class="panel-body">
           <p class="mb-0">
          Yes. While there are no limits on the number of loans allowed,
-		 you cannot have more than one loan at any time. Our payday loan 
+		 you cannot have more than one loan at any time. Our payday loan/Cash Advance 
 		 service is meant to bridge your short term cash needs between paydays.
         </p>
         </div>
@@ -93,14 +93,14 @@
       <div class="panel-heading" role="tab" id="headingThree">
         <h4 class="panel-title">
         <a class="collapsed faq_clr" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefour" aria-expanded="false" aria-controls="collapseThree">
-       Why should I use a payday loan obtained through the MoneyMart.ca website?
+       Why should I use a payday loan/Cash Advance obtained through the MoneyMart.ca website?
         </a>
       </h4>
       </div>
       <div id="collapsefour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
         <div class="panel-body">
          <p class="mb-0">
-        Payday loans are provided by National Cashzway,
+        payday loan/Cash Advance/Cash Advance are provided by National Cashzway,
 		one of the largest providers of alternative retail 
 		financial services in the world. We service short term consumer
 		loans for hundreds of thousands of borrowers just like you through 
@@ -119,7 +119,7 @@
 				<div class="col-12 col-lg-10 auto_side color_h4 color_h5">
 				  <div class="col-12 col-lg-10">
                     <div class="about-content">
-                        <h4> About your payday loan</h4>
+                        <h4> About your payday loan/Cash Advance</h4>
                        
 						
                       
@@ -129,7 +129,7 @@
       <div class="panel-heading" role="tab" id="headingOne">
         <h4 class="panel-title">
         <a role="button" data-toggle="collapse" data-parent="#accordion" href="#loaneOne" aria-expanded="true" aria-controls="loaneOne" class="faq_clr">
-         How do I qualify for a payday loan?
+         How do I qualify for a payday loan/Cash Advance?
         </a>
       </h4>
       </div>
@@ -139,7 +139,7 @@
         In order to apply, you need the following:
           <ul class="meaingul">
     		<li>  You must be 19 years or older </li>
-            <li> Valid chequing account (required for an online payday loan) </li>
+            <li> Valid chequing account (required for an online payday loan/Cash Advance) </li>
             <li> Valid email address </li>
            <li> Proof of steady income (Manitoba residents are required to provide proof of income for the most recent pay period and the full prior month.) </li>
              <li>  Active phone number </li>
@@ -153,7 +153,7 @@
       <div class="panel-heading" role="tab" id="headingTwo">
         <h4 class="panel-title">
         <a class="collapsed faq_clr" role="button" data-toggle="collapse" data-parent="#accordion" href="#loaneTwo" aria-expanded="false" aria-controls="loaneTwo">
-        How much can I borrow with a payday loan?
+        How much can I borrow with a payday loan/Cash Advance?
         </a>
       </h4>
       </div>
@@ -161,7 +161,7 @@
         <div class="panel-body">
           <p class="mb-0">
            Depending upon income level, province of residence
-		   and other underwriting criteria, payday loan amounts 
+		   and other underwriting criteria, payday loan/Cash Advance amounts 
 		   can range from $120.00 to $1,500.00.
         </p>
         </div>
@@ -172,14 +172,14 @@
       <div class="panel-heading" role="tab" id="headingThree">
         <h4 class="panel-title">
         <a class="collapsed faq_clr" role="button" data-toggle="collapse" data-parent="#accordion" href="#loaneThree" aria-expanded="false" aria-controls="loaneThree">
-          What are the fees associated with a payday loan?
+          What are the fees associated with a payday loan/Cash Advance?
         </a>
       </h4>
       </div>
       <div id="loaneThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
         <div class="panel-body">
           <p class="mb-0">
-       When you apply for a payday loan, 
+       When you apply for a payday loan/Cash Advance, 
 	   all applicable fees are stated in the loan agreement.
         </p>
         </div>
@@ -248,7 +248,7 @@
 				
 									  <div class="col-12 col-lg-10" id="panel3">
                     <div class="about-content">
-                        <h4> Applying for an online payday loan</h4>
+                        <h4> Applying for an online payday loan/Cash Advance</h4>
                        
 						
                       
@@ -258,14 +258,14 @@
       <div class="panel-heading" role="tab" id="headingOne">
         <h4 class="panel-title">
         <a role="button" data-toggle="collapse" data-parent="#accordion" href="#paydayOne" aria-expanded="true" aria-controls="paydayOne" class="faq_clr">
-        How do I apply for a payday loan?
+        How do I apply for a payday loan/Cash Advance?
         </a>
       </h4>
       </div>
       <div id="paydayOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
         <div class="panel-body">
           <p class="mb-0">
-       Getting a payday loan is a quick and easy process. The steps are:
+       Getting a payday loan/Cash Advance is a quick and easy process. The steps are:
           <ul class="meaingul">
     		<li>  Complete the online application. The application contains basic customer contact, bank account and income information. </li>
             <li> Review and verify that the information entered on the application is correct. </li>
@@ -458,7 +458,7 @@
 				
 								  <div class="col-12 col-lg-10" id="panel4">
                     <div class="about-content">
-                        <h4> Repaying your online payday loan </h4>
+                        <h4> Repaying your online payday loan/Cash Advance </h4>
                        
 						
                       
@@ -484,7 +484,7 @@
       <div class="panel-heading" role="tab" id="headingTwo">
         <h4 class="panel-title">
         <a class="collapsed faq_clr" role="button" data-toggle="collapse" data-parent="#accordion" href="#RepayingTwo" aria-expanded="false" aria-controls="RepayingTwo">
-         How do I make payments on my payday loan?
+         How do I make payments on my payday loan/Cash Advance?
         </a>
       </h4>
       </div>
@@ -524,7 +524,7 @@
       <div id="Repayingfour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
         <div class="panel-body">
           <p class="mb-0">
-        No. A payday loan is meant for short term borrowing needs only.
+        No. A payday loan/Cash Advance is meant for short term borrowing needs only.
 		As such, we require your loan to be paid-off in full on the due date. 
 		You may not use the proceeds of another loan to do so.
         </p>
@@ -796,7 +796,7 @@ Cashzway customers who have received a loan from one of our stores, but have not
 		</li>
 		<li>Records of customer’s financial transactions are kept and maintained.
 		</li>
-		<li>Customers have the right to rescind a payday loan.
+		<li>Customers have the right to rescind a payday loan/Cash Advance.
 		</li>
 		<li>All documentation will use plain language.
 		</li>
@@ -840,7 +840,7 @@ Cashzway customers who have received a loan from one of our stores, but have not
       <div class="panel-heading" role="tab" id="headingOne">
         <h4 class="panel-title">
         <a role="button" data-toggle="collapse" data-parent="#accordion" href="#customersOne" aria-expanded="true" aria-controls="customersOne" class="faq_clr">
-   I have a payday loan, but I applied for and received it at a Cashzway store. How do I repay my loan?
+   I have a payday loan/Cash Advance, but I applied for and received it at a Cashzway store. How do I repay my loan?
         </a>
       </h4>
       </div>
